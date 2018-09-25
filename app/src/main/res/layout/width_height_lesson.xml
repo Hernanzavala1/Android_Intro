@@ -7,6 +7,7 @@
     android:background="@android:color/darker_gray">
 
     <TextView
+        android:layout_weight="1"
         android:text="VIP List"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -14,6 +15,7 @@
         android:textSize="24sp" />
 
     <TextView
+        android:layout_weight="1"
         android:text="Kunal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -21,6 +23,7 @@
         android:textSize="24sp" />
 
     <TextView
+        android:layout_weight="1"
         android:text="Kagure"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -28,6 +31,7 @@
         android:textSize="24sp" />
 
     <TextView
+        android:layout_weight="1"
         android:text="Lyla"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
