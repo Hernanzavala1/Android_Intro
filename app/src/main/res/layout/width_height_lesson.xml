@@ -10,7 +10,7 @@
         android:layout_weight="1"
         android:text="VIP List"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:background="#4CAF50"
         android:textSize="24sp" />
 
@@ -18,7 +18,7 @@
         android:layout_weight="1"
         android:text="Kunal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:background="#4CAF50"
         android:textSize="24sp" />
 
@@ -26,7 +26,7 @@
         android:layout_weight="1"
         android:text="Kagure"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:background="#4CAF50"
         android:textSize="24sp" />
 
@@ -34,7 +34,7 @@
         android:layout_weight="1"
         android:text="Lyla"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:background="#4CAF50"
         android:textSize="24sp" />
 </LinearLayout>
